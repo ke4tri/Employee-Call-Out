@@ -1,3 +1,8 @@
+'''
+This was used to clean the original .csv data file so something more useable. 
+
+'''
+
 import numpy as np
 import pandas as pd
 from datetime import datetime as dt
